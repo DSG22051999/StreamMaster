@@ -15,5 +15,9 @@ Versione: 1.0
 Sviluppatore: DSG22051999
 Data di Rilascio: 19/09/2024
 
-N.B.: Il Seguente Software e un progetto ancora in Fase di Sviluppo, se lo si vuole scaricare bisogna utilizzare Visual Studio per compilarlo
+Nota Bene: Questo software è attualmente in fase di sviluppo. Per ottenere una copia, è possibile scaricare il progetto e compilarlo utilizzando Visual Studio. In alternativa, è disponibile una versione 1.0.0 in fase beta nella sezione Releases. 
+Si prega di tenere presente che trattandosi di una versione preliminare, potrebbero esserci funzionalità incomplete o problemi tecnici da risolvere.
+
+Dichiarazione di non responsabilità: L'autore del software non si assume alcuna responsabilità per l'uso che viene fatto del programma. Gli utenti sono invitati a rispettare le normative locali e internazionali sull'uso di contenuti multimediali in streaming. 
+Qualsiasi utilizzo improprio o illegale del software è a rischio esclusivo dell'utente.
 
