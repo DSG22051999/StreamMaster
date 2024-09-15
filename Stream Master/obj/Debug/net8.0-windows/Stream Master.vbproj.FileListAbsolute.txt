@@ -1,0 +1,24 @@
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\bin\Debug\net8.0-windows\Stream Master.exe
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\bin\Debug\net8.0-windows\Stream Master.deps.json
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\bin\Debug\net8.0-windows\Stream Master.runtimeconfig.json
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\bin\Debug\net8.0-windows\Stream Master.dll
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\bin\Debug\net8.0-windows\Stream Master.pdb
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream_Master.Form1.resources
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream_Master.Resources.resources
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream Master.vbproj.GenerateResource.cache
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream Master.AssemblyInfoInputs.cache
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream Master.AssemblyInfo.vb
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream Master.vbproj.CoreCompileInputs.cache
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream Master.dll
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\refint\Stream Master.dll
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream Master.pdb
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream Master.genruntimeconfig.cache
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\ref\Stream Master.dll
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream_Master.Stream_Master_Player.resources
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream Master.vbproj.ResolveComReference.cache
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Davide-PC\source\repos\Stream Master\Stream Master\obj\Debug\net8.0-windows\Stream_Master.informazionisu.resources
